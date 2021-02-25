@@ -1,0 +1,6 @@
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\NAU labs\2й курс\2й семестр\ООП\GitHub repos\Second_Lab\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
